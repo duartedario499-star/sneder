@@ -1,0 +1,4 @@
+<Files "config.json">
+    Require all denied
+</Files>
+Options -Indexes
